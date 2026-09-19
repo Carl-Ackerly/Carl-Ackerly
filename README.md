@@ -10,7 +10,11 @@ Building hands-on skills in networking, Python, and IT support.
     switch port security.
 
 ## Python Projects
-
+- [Coffee Maker](https://github.com/Carl-Ackerly/coffee_maker)
+- [Hangman Game](https://github.com/Carl-Ackerly/Hangman_game)
+- [Snake Game](https://github.com/Carl-Ackerly/Snake_game)
+- [Quiz Game](https://github.com/Carl-Ackerly/quiz_game)
+- [Caesar Cipher](https://github.com/Carl-Ackerly/caesar_cipher)
 <!--
 **Carl-Ackerly/Carl-Ackerly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
