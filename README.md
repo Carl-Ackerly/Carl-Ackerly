@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi, I'm Carl
+
+Computer Information Systems student at Buffalo State University.
+Building hands-on skills in networking, Python, and IT support. 
+
+## Networking Projects 
+
+- [Multi-Department-Business-Network](https://github.com/Carl-Ackerly/Multi-Department-Business-Network)
+  - Cisco Packet Tracer lab covering VLANs, inter-VLAN routing, DHCP, SSH access controls, and
+    switch port security.
+
+## Python Projects
 
 <!--
 **Carl-Ackerly/Carl-Ackerly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
