@@ -9,6 +9,12 @@ Building hands-on skills in networking, Python, and IT support.
   - Cisco Packet Tracer lab covering VLANs, inter-VLAN routing, DHCP, SSH access controls, and
     switch port security.
 
+## Game Projects
+
+- [Knucklebones — Play the game](https://knucklebones-siege.ackerly-carl.chatgpt.site/)
+  - A pirate tavern dice game for 1–4 human players, with NPCs filling empty seats.
+  - Features private choices, simultaneous dice rolls, shared bone pots, and match-win tracking. Play on a phone or computer and invite friends using a room code.
+
 ## Python Projects
 - [Coffee Maker](https://github.com/Carl-Ackerly/coffee_maker)
 - [Hangman Game](https://github.com/Carl-Ackerly/Hangman_game)
